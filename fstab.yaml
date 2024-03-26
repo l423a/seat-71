@@ -1,6 +1,6 @@
 mountpoints:
   /:
-    url: "https://author-p132113-e1283516.adobeaemcloud.com/bin/franklin.delivery/l423a/seat-71/aem-boilerplate-xwalk/main"
+    url: "https://author-p132113-e1283516.adobeaemcloud.com/bin/franklin.delivery/l423a/seat-71/main"
     type: "markup"
     suffix: ".html"
     
